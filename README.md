@@ -5,7 +5,7 @@
 ### CLASE 1
 ``` python
 
-# funcion pura = tiene argumentos, no producen efectos secundarios, retorna siempre el mismo valor con la misma entrada
+# funcion pura = tiene argumentos, no producen efectos secundarios, retorna siempre el mismo valor con la misma entrada.
 # ejemplo funcion pura = Math.sqrt(49)-> 7
 
 ## funcion impura = no tiene argumentos, puede retornar valores distintos, 
